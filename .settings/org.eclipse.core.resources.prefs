@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//WebContent/reader/search.jsp=UTF-8
+encoding//src/dao/BookDao2.java=UTF-8
+encoding//src/resource/login_en_US.properties=UTF-8
+encoding//src/resource/login_zh_CN.properties=ISO-8859-1
+encoding//src/utils/DBHelper.java=UTF-8
